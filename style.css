@@ -32,13 +32,21 @@ body {
   position: absolute;
   justify-content: left;
 }
-input {
+input:first-child {
   border: none;
   background: transparent;
   color: white;
   text-align: center;
-  width: 500px;
+  width: 300px;
   font-size: 20px;
+  display: block;
+}
+input:last-child {
+  border: none;
+  background: transparent;
+  color: white;
+  font-size: 25px;
+  width: 304px;
 }
 button {
   border: none;
