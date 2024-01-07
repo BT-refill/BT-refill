@@ -37,7 +37,7 @@ input:first-child {
   background: transparent;
   color: white;
   text-align: center;
-  width: 300px;
+  width: 350px;
   font-size: 20px;
   display: block;
 }
@@ -46,7 +46,7 @@ input:last-child {
   background: transparent;
   color: white;
   font-size: 25px;
-  width: 304px;
+  width: 350px;
 }
 button {
   border: none;
